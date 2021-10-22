@@ -1,0 +1,28 @@
+{
+  "name": "apifinanceira",
+  "version": "1.0.0",
+  "description": "API Financeira NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/** test/** --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariannesalomao/apiFinanceira.git"
+  },
+  "author": "Marianne Salomão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariannesalomao/apiFinanceira/issues"
+  },
+  "homepage": "https://github.com/mariannesalomao/apiFinanceira#readme",
+  "devDependencies": {
+    "eslint": "^8.0.1",
+    "jest": "^27.3.1",
+    "supertest": "^6.1.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
