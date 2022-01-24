@@ -8,9 +8,17 @@ API de Gerenciamento Financeiro em NodeJS com testes em Jest
 
 > npm start
 
+- Run Server with Nodemon:
+
+> npm run dev
+
 - Run tests from server:
 
 > npm test
+
+- Run all tests with Watch from Jest:
+
+> jest --watchAll
 
 
 ## Dependências
